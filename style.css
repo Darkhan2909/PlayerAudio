@@ -198,3 +198,8 @@
     border: 3px solid;
     border-color: aqua;
 }
+
+div.container {
+  border: 7px solid;
+  border-color: blanchedalmond;
+}
